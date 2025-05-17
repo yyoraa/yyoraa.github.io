@@ -22,9 +22,6 @@ At present, I am doing LLM research in HKUST NLP and very fortunate to be advise
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping]
 * submitted to NeurIPS 2025
 Wei Liu, Ruochen Zhou, **Yiyun Deng**, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He
